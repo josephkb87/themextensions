@@ -1,2 +1,9 @@
-# themextensions
-A collection of sample themes and extensions
+# Themextensions 
+
+### About
+Themextensions is a collection of sample themes and extensions.
+
+
+
+
+
