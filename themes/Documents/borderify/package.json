@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "simple": "^0.2.0",
+    "simple-versioner": "^1.2.0"
+  }
+}
